@@ -1,8 +1,8 @@
 # mi_card_flutter
 
-- ![image](https://user-images.githubusercontent.com/96056167/165944788-aa2af48e-60d4-4df8-9e6b-2e3f3285ca3f.png)
+ ![image](https://user-images.githubusercontent.com/96056167/165944788-aa2af48e-60d4-4df8-9e6b-2e3f3285ca3f.png)
 
-A new Flutter project.
+
 
 ## Getting Started
 
